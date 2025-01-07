@@ -1,0 +1,33 @@
+baseURL: http://example.org/
+languageCode: zh_CN
+title: 江湖笔者的文档库
+
+menu:
+  main:
+    - name: 主页
+      pageRef: /index
+      weight: 1
+    - name: 文档
+      pageRef: /docs
+      weight: 2
+    - name: 反馈
+      pageRef: /issus
+      weight: 3
+    - name: 投稿&交流
+      pageRef: /weite
+      weight: 3      
+    - name: 搜索
+      weight: 4
+      params:
+        type: search
+    - name: GitHub
+      weight: 5
+      url: "https://github.com/imfing/hextra"
+      params:
+        icon: github
+
+copyright: "© 2024 您的文本"
+
+module:
+  imports:
+    - path: github.com/imfing/hextra

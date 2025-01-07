@@ -1,0 +1,20 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>江湖笔者的文档库 – 目前开发完成的部分</title>
+    <link>http://localhost:1313/index/</link>
+    <description>Recent content in 目前开发完成的部分 on 江湖笔者的文档库</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh_CN</language>
+    <copyright>© 2024 您的文本</copyright>
+    <lastBuildDate>Tue, 07 Jan 2025 17:38:09 +0800</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/index/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>
