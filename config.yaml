@@ -5,24 +5,27 @@ title: 江湖笔者的文档库
 menu:
   main:
     - name: 主页
-      pageRef: /index
+      pageRef: /
       weight: 1
+    - name: 主页
+      pageRef: /
+      weight: 2
     - name: 文档
       pageRef: /docs
-      weight: 2
+      weight: 3
     - name: 反馈
       pageRef: /issus
-      weight: 3
+      weight: 4
     - name: 投稿&交流
       pageRef: /weite
-      weight: 3      
+      weight: 5      
     - name: 搜索
-      weight: 4
+      weight: 6
       params:
         type: search
     - name: GitHub
-      weight: 5
-      url: "https://github.com/imfing/hextra"
+      weight: 7
+      url: "https://github.com/qinyuanchun03/docs-hugo/"
       params:
         icon: github
 
