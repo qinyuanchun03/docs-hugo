@@ -7,8 +7,8 @@ menu:
     - name: 主页
       pageRef: /
       weight: 1
-    - name: 主页
-      pageRef: /
+    - name: 开发进度
+      pageRef: /index
       weight: 2
     - name: 文档
       pageRef: /docs
